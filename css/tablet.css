@@ -1,0 +1,30 @@
+@media screen and (min-width: 768px) {
+    .container {
+        max-width: 768px;
+    }
+
+    .header {
+        padding: 0;
+    }
+
+    .contact-link {
+        font-size: 12px;
+        line-height: 1.16667;
+    }
+
+    .img-list {
+        background-color: #fff;
+    }
+
+    .team-text {
+        margin-bottom: 16px;
+    }
+
+    .section-customers {
+        padding: 96px 0;
+    }
+
+    .form-subscribe {
+        text-align: left;
+    }
+}
